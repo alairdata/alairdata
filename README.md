@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Neutral Minimalist Name LinkedIn Article Cover Image](https://github.com/alairdata/alairdata/assets/109746137/9f0d926f-a3f5-46a9-b960-930f1bd25e25)
 
-I broke into data from a non-technical background. Some of the things I realized on my breaking into data journey, I strive to solve to solve as much as possible - one of which is demystifying everything you thought you knew about data as everything becomes a tad bit easier once demystified data turns into your GOLD! My interests are in travelling, and every other activity related to it. I enjoy using Python, Power BI, Excel, SQL and R Programming to discover insights posted here on my page.
+I broke into data from a non-technical background. Some of the things I realized on my breaking into data journey, I strive to solve as many as I can - one of which is demystifying everything you thought you knew about data as everything becomes a tad bit easier once demystified data turns into your GOLD! My interests are in travelling, and every other activity related to it. I enjoy using Python, Power BI, Excel, SQL and R Programming to discover insights posted here on my page.
 <!--
 **alairdata/alairdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
