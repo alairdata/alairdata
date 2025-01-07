@@ -1,7 +1,23 @@
 ### You found me! 👋
-![Neutral Minimalist Name LinkedIn Article Cover Image](https://github.com/alairdata/alairdata/assets/109746137/9f0d926f-a3f5-46a9-b960-930f1bd25e25)
+![github banner](https://github.com/user-attachments/assets/be86d225-3a1a-481e-9842-fd35f2908203)
 
-I broke into data from a non-technical background. Some of the things I realized on my breaking into data journey, I strive to solve as many as I can - one of which is demystifying everything you thought you knew about data as everything becomes a tad bit easier once demystified data turns into your GOLD! My interests are in travelling, and every other activity related to it. I enjoy using Python, Power BI, Excel, SQL and R Programming to discover insights posted here on my page.
+Hi there! I’m Princilla, a self-taught data professional who broke into data from a non-technical background. My goal is to demystify data and make it less intimidating for others. I believe once the confusion is removed, data becomes gold for decision-making and insights!
+
+Besides my love for data, I’m a travel enthusiast—discovering stories through places, people, and datasets alike.
+
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=alairdata&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alairdata&layout=compact&theme=tokyonight&card_width=500" />
+    </td>
+  </tr>
+</table>
+
 <!--
 **alairdata/alairdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
