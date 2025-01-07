@@ -18,6 +18,11 @@ Besides my love for data, I’m a travel enthusiast—discovering stories throug
   </tr>
 </table>
 
+### Let’s Connect! 🚀
+- 🔗 [LinkedIn](https://www.linkedin.com/in/princilla-abena-koranteng/)
+- 🔗 [YouTube](https://www.youtube.com/@datawithprincilla) 
+- 📝 Check out my latest insights and projects below!
+
 <!--
 **alairdata/alairdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
