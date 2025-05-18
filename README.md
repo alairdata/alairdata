@@ -1,21 +1,19 @@
 ### You found me! 👋  
 ![github banner](https://github.com/user-attachments/assets/be86d225-3a1a-481e-9842-fd35f2908203)
 
-Hey! I’m **Princilla** — a self-taught data analyst who loves wrangling messy data, building dashboards, and turning insights into action.
+Hi, I’m Princilla, a self-taught data analyst who turns raw, messy datasets into clean, story-packed insights that **actually** drive action. I don’t just “love data”—I use it to solve problems, automate the boring stuff, and make teams smarter.
 
-I believe in clarity over jargon, real results over fluff, and sharing what I learn with the world.
+Tools I mess with regularly:
+Mainly Python, SQL, Power BI, Excel, and in some cases, not regular ones  but whatever else gets the job done.
 
-💻 **Tools I speak fluently:**  
-Python | SQL | Power BI | Excel | Tableau | Looker Studio | Pandas | NumPy
+Outside of data, I’m big on travel, always hunting stories, whether they come from people, places, or a weird-ass dataset.
 
-🌍 Outside of data? I’m chasing stories through travel and people.
-
----
+---------
 
 <details>
-<summary>🤔 New to GitHub? Here's how to explore this page</summary>
+<summary>🤔 Confused on where to start? Click this Toggle for Help </summary>
 
-**Totally cool — here's the simple way to find stuff here:**
+**Here is the help you are looking for!:**
 
 1. ⬇️ Scroll down to see my **featured (pinned) projects**
 2. 📁 Want to explore more? Click the **Repositories** tab above  
@@ -41,17 +39,9 @@ Still confused? [Ping me on LinkedIn](https://www.linkedin.com/in/princilla-aben
 
 ---
 
-### ⚡ Featured Work
-
-- 📊 **Sales Dashboard (Power BI)** – Automated reporting, cut manual work by 70%  
-- 🐍 **Python Web Scraper** – Tracks competitor pricing in real time  
-- 📹 **YouTube Series** – Teaching SQL, Python & data viz without the boring bits  
-
----
-
 ### Let’s Connect  
-- 🧠 [LinkedIn](https://www.linkedin.com/in/princilla-abena-koranteng/)  
-- 🎥 [YouTube](https://www.youtube.com/@datawithprincilla)  
+- 🧠 [LinkedIn](https://www.linkedin.com/in/princilla-abena-koranteng/) – talk data, jobs, collabs
+- 🎥 [YouTube](https://www.youtube.com/@datawithprincilla)   – where I break down data concepts, tutorials, and real-world use cases
 - 📨 Always down to talk data, projects, or wild ideas.
 
 ---
