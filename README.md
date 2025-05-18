@@ -1,11 +1,32 @@
-### You found me! 👋
+### You found me! 👋  
 ![github banner](https://github.com/user-attachments/assets/be86d225-3a1a-481e-9842-fd35f2908203)
 
-Hi there! I’m Princilla, a self-taught data professional who broke into data from a non-technical background. My goal is to demystify data and make it less intimidating for others. I believe once the confusion is removed, data becomes gold for decision-making and insights!
+Hey! I’m **Princilla** — a self-taught data analyst who loves wrangling messy data, building dashboards, and turning insights into action.
 
-Besides my love for data, I’m a travel enthusiast—discovering stories through places, people, and datasets alike.
+I believe in clarity over jargon, real results over fluff, and sharing what I learn with the world.
 
+💻 **Tools I speak fluently:**  
+Python | SQL | Power BI | Excel | Tableau | Looker Studio | Pandas | NumPy
 
+🌍 Outside of data? I’m chasing stories through travel and people.
+
+---
+
+<details>
+<summary>🤔 New to GitHub? Here's how to explore this page</summary>
+
+**Totally cool — here's the simple way to find stuff here:**
+
+1. ⬇️ Scroll down to see my **featured (pinned) projects**
+2. 📁 Want to explore more? Click the **Repositories** tab above  
+3. 📄 Each repo = 1 project. Inside you'll find a README file — it's like a tour guide for that project.
+4. ✅ I label beginner-friendly stuff and write clear instructions, so no need to be a tech wizard.
+
+Still confused? [Ping me on LinkedIn](https://www.linkedin.com/in/princilla-abena-koranteng/) — I got you.
+
+</details>
+
+---
 
 <table>
   <tr>
@@ -18,23 +39,23 @@ Besides my love for data, I’m a travel enthusiast—discovering stories throug
   </tr>
 </table>
 
-### Let’s Connect! 🚀
-- 🔗 [LinkedIn](https://www.linkedin.com/in/princilla-abena-koranteng/)
-- 🔗 [YouTube](https://www.youtube.com/@datawithprincilla) 
-- 📝 Check out my latest insights and projects below!
+---
+
+### ⚡ Featured Work
+
+- 📊 **Sales Dashboard (Power BI)** – Automated reporting, cut manual work by 70%  
+- 🐍 **Python Web Scraper** – Tracks competitor pricing in real time  
+- 📹 **YouTube Series** – Teaching SQL, Python & data viz without the boring bits  
+
+---
+
+### Let’s Connect  
+- 🧠 [LinkedIn](https://www.linkedin.com/in/princilla-abena-koranteng/)  
+- 🎥 [YouTube](https://www.youtube.com/@datawithprincilla)  
+- 📨 Always down to talk data, projects, or wild ideas.
+
+---
 
 <!--
 **alairdata/alairdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...![Uploading Neutral Minimalist Name LinkedIn Article Cover Image.png…]()
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
