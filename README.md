@@ -25,6 +25,8 @@ Still confused? [Ping me on LinkedIn](https://www.linkedin.com/in/princilla-aben
 </details>
 
 ---
+### My GitHub Stats at a Glance
+These stats auto-update based on my coding habits. So if it looks quiet, I’m probably deep in a client project or offline building something cool.
 
 <table>
   <tr>
